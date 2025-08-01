@@ -3,3 +3,4 @@
 
 
 ## Data Stack
+<img src="https://github.com/pblovns/data-stack/blob/main/oracle-logo-img.svg?raw=true" alt="Logo" width="70">
