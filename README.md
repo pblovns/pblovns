@@ -7,9 +7,14 @@
 *Tenho como objetivo entender as necessidades do negócio e convertê-las em soluções eficazes por meio da tecnologia.*
 
 ## [❔ + 🧠 = 💡]
+---
+## Minhas Certificações:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/pblovns/data-stack/main/lakehouse-fundamentals.png" width="150">
+</p>
 
 ---
-Últimos cursos que fiz:
+Cursos e capacitações complementares que já fiz:
 ---
 
 | Nome do Curso               | Instituição   | Duração      |
