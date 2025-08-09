@@ -129,7 +129,8 @@
 
 </br> 
 
----
+</br> 
+
 ## Minhas Certificações:
 <p align="left">
   <img src="https://raw.githubusercontent.com/pblovns/data-stack/main/lakehouse-fundamentals.png" width="147">
