@@ -7,7 +7,7 @@
 
 *Tenho como objetivo entender as necessidades do negócio e convertê-las em soluções eficazes por meio da tecnologia.*
 
-## Data Stacks
+## Data Stacks:
 <img
 	align="left"
 	alt="SAS EG"
@@ -91,8 +91,8 @@
 
 <img
 	align="left"
-	alt="CSS"
-	title="CSS"
+	alt="Confluence"
+	title="Confluence"
 	width="42px"
 	style="padding-right: 10px;"
 	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-plain-wordmark.svg"
@@ -126,9 +126,7 @@
 />
 
 </br> 
-
 </br> 
-
 </br> 
 
 ## Minhas Certificações:
