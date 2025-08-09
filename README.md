@@ -73,16 +73,63 @@
 
 <img
 	align="left"
-	alt="CSS"
-	title="CSS"
+	alt="Azure"
+	title="Azure"
 	width="42px"
 	style="padding-right: 10px;"
 	src="https://cdn.brandfetch.io/idgS27aNck/theme/dark/idc8nWN0hO.svg?c=1dxbfHSJFAPEGdCLU4o5B"
 />
 
+<img
+	align="left"
+	alt="Bitbucket"
+	title="Bitbucket"
+	width="42px"
+	style="padding-right: 10px;"
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg"
+/>
 
+<img
+	align="left"
+	alt="CSS"
+	title="CSS"
+	width="42px"
+	style="padding-right: 10px;"
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-plain-wordmark.svg"
+/>
 
---
+<img
+	align="left"
+	alt="Git"
+	title="Git"
+	width="50px"
+	style="padding-right: 10px;"
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"
+/>
+
+<img
+	align="left"
+	alt="Github"
+	title="Github"
+	width="42px"
+	style="padding-right: 10px;"
+	src="https://cdn.brandfetch.io/idZAyF9rlg/theme/light/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B"
+/>
+
+<img
+	align="left"
+	alt="Hadoop"
+	title="Hadoop"
+	width="45px"
+	style="padding-right: 10px;"
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg"
+/>
+
+</br> 
+
+</br> 
+
+---
 ## Minhas Certificações:
 <p align="left">
   <img src="https://raw.githubusercontent.com/pblovns/data-stack/main/lakehouse-fundamentals.png" width="147">
