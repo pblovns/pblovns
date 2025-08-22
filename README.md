@@ -9,19 +9,19 @@
 
 ## Data Stacks:
 <p align="left">
-  <img src="https://cdn.brandfetch.io/id1-pBc_CB/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" 			title="SAS EG"			width="45px" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/teradata.png" 															title="Teradata"		width="45px" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 		title="SQL Developer"	width="45px" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 					title="Python"			width="45px" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" 			title="Power Shell"		width="45px" style="margin-right: 10px;">
-  <img src="https://cdn.brandfetch.io/idSUrLOWbH/idEHbzBDZC.svg?c=1dxbfHSJFAPEGdCLU4o5B" 							title="Databricks"		width="45px" style="margin-right: 10px;">
-  <img src="https://cdn.brandfetch.io/idVCtIagXj/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" 						title="Power BI"		width="45px" style="margin-right: 10px;">
-  <img src="https://cdn.brandfetch.io/idgS27aNck/theme/dark/idc8nWN0hO.svg?c=1dxbfHSJFAPEGdCLU4o5B" 				title="Azure"			width="45px" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" 	title="Bitbucket"		width="45px" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-plain-wordmark.svg"  	title="Confluence"		width="45px" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 					title="Git"				width="45px" style="margin-right: 10px;">
-  <img src="https://cdn.brandfetch.io/idZAyF9rlg/theme/light/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" 					title="Github"			width="45px" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" 					title="Hadoop"			width="45px" style="margin-right: 10px;">
+  <img src="https://cdn.brandfetch.io/id1-pBc_CB/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" 			title="SAS EG"			width="45px" style="margin-right: 20px;">
+  <img src="https://img.icons8.com/color/48/teradata.png" 															title="Teradata"		width="45px" style="margin-right: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 		title="SQL Developer"	width="45px" style="margin-right: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 					title="Python"			width="45px" style="margin-right: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" 			title="Power Shell"		width="45px" style="margin-right: 20px;">
+  <img src="https://cdn.brandfetch.io/idSUrLOWbH/idEHbzBDZC.svg?c=1dxbfHSJFAPEGdCLU4o5B" 							title="Databricks"		width="45px" style="margin-right: 20px;">
+  <img src="https://cdn.brandfetch.io/idVCtIagXj/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" 						title="Power BI"		width="45px" style="margin-right: 20px;">
+  <img src="https://cdn.brandfetch.io/idgS27aNck/theme/dark/idc8nWN0hO.svg?c=1dxbfHSJFAPEGdCLU4o5B" 				title="Azure"			width="45px" style="margin-right: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" 	title="Bitbucket"		width="45px" style="margin-right: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-plain-wordmark.svg"  	title="Confluence"		width="45px" style="margin-right: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 					title="Git"				width="45px" style="margin-right: 20px;">
+  <img src="https://cdn.brandfetch.io/idZAyF9rlg/theme/light/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" 					title="Github"			width="45px" style="margin-right: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" 					title="Hadoop"			width="45px" style="margin-right: 20px;">
 </p>
 
 ----
