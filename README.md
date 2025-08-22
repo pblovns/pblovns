@@ -37,9 +37,9 @@
 Cursos e capacitações complementares que já fiz:
 ---
 
-| Nome do Curso                                                   | Instituição             | Certificado                                                                |
-| ----------------------------------------------------------------|:-----------------------:|----------------------------------------------------------------------------|
-| SAS do Zero ao Profissional: Seja expert em análise de dados    | Programador Avetureiro  | https://www.udemy.com/certificate/UC-0ba6a13f-e911-48c4-82a3-71abf11ee3d7/ |
-| SQL                                                             | Dio.me                  |                                                                            |
-| Hadoop                                                          | Dio.me                  |                                                                            |
-| Hive                                                            | Dio.me                  |                                                                            |
+| Nome do Curso                        | Instituição             | Certificado                                                                |
+| -------------------------------------|:-----------------------:|----------------------------------------------------------------------------|
+| SAS do Zero ao Pro                   | Programador Avetureiro  | https://www.udemy.com/certificate/UC-0ba6a13f-e911-48c4-82a3-71abf11ee3d7/ |
+| Microsoft Azure Essentials           | Dio.me                  | https://www.dio.me/certificate/HRFCOZJ1/share                              |
+| Hadoop                               | Dio.me                  |                                                                            |
+| Hive                                 | Dio.me                  |                                                                            |
