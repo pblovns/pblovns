@@ -30,6 +30,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/pblovns/data-stack/main/lakehouse-fundamentals.png" width="147">
   <img src="https://raw.githubusercontent.com/pblovns/data-stack/main/business-intelligence-foundation-professional-certi.png" width="150">
+  <img src="https://raw.githubusercontent.com/pblovns/data-stack/main/Data-Engineering-Professional-Level-Exam.png" width="200">
 </p>
 
 
