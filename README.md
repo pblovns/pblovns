@@ -1,30 +1,95 @@
----
-# Bem-vindo(a) ao meu perfil 😁 [❔ + 🧠 = 💡]
-### SAS Guide • Teradata • Oracle SQL • Excel • Power Shell • Python • Databricks
+<br clear="both">
+
+<h1 align="left">Olá visitante, bem-vindo(a) ao meu perfil 👋🏾😁    [❔ + 🧠 = 💡] </h1>
+
+### Atualmente atuo como Engenheiro de Dados 👨🏾‍💻🎲
 
 + Cursando Análise e Desenvolvimento de Sistemas 💻 <br/>
 + Pós-Graduando em Análise de Dados 📊
 
-*Tenho como objetivo entender as necessidades do negócio e convertê-las em soluções eficazes por meio da tecnologia.*
+<h5 align="left">Tenho como objetivo entender as necessidades do negócio e convertê-las em soluções por meio da tecnologia.</h5>
 
-## Data Stacks:
-<p align="left">
-  <img src="https://cdn.brandfetch.io/id1-pBc_CB/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" 			title="SAS EG"			width="45px" style="margin-right: 20px;">
-  <img src="https://img.icons8.com/color/48/teradata.png" 															title="Teradata"		width="45px" style="margin-right: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 		title="SQL Developer"	width="45px" style="margin-right: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 					title="Python"			width="45px" style="margin-right: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" 			title="Power Shell"		width="45px" style="margin-right: 20px;">
-  <img src="https://cdn.brandfetch.io/idSUrLOWbH/idEHbzBDZC.svg?c=1dxbfHSJFAPEGdCLU4o5B" 							title="Databricks"		width="45px" style="margin-right: 20px;">
-  <img src="https://cdn.brandfetch.io/idVCtIagXj/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" 						title="Power BI"		width="45px" style="margin-right: 20px;">
-  <img src="https://cdn.brandfetch.io/idgS27aNck/theme/dark/idc8nWN0hO.svg?c=1dxbfHSJFAPEGdCLU4o5B" 				title="Azure"			width="45px" style="margin-right: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" 	title="Bitbucket"		width="45px" style="margin-right: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-plain-wordmark.svg"  	title="Confluence"		width="45px" style="margin-right: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 					title="Git"				width="45px" style="margin-right: 20px;">
-  <img src="https://cdn.brandfetch.io/idZAyF9rlg/theme/light/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" 					title="Github"			width="45px" style="margin-right: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" 					title="Hadoop"			width="45px" style="margin-right: 20px;">
-</p>
+###
+
+<h2 align="center">Data Stacks:</h2>
+
+###
+
+<h3 align="left">Banco de Dados 💾</h3>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/pblovns/data-stack/main/teradata-database.svg" height="40" title="Teradata"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/pblovns/data-stack/main/oracle-logo-img.svg" height="40" title="Oracle"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" title="SQL Server"  />
+  <img width="12" />
+  <img src="https://cdn.brandfetch.io/idBdG8DdKe/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" title="MySQL"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" title="SQLite"  />
+</div>
+
+###
+
+<h3 align="left">Linguagens de Programação e Script 🔋</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+</div>
+
+###
+
+<h3 align="left">Colaboração e CI/CD 🫱🏼‍🫲🏾</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="40" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bamboo/0052CC" height="40" alt="bamboo logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sourcetree/0052CC" height="40" alt="sourcetree logo"  />
+</div>
+
+###
+
+<h3 align="left">Big Data 🗂️</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.brandfetch.io/id9BcgbRZ0/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="35" title="SAS Guide"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" height="40" title="Hive"  />
+  <img width="12" />
+  <img src="https://cdn.brandfetch.io/idSUrLOWbH/idEHbzBDZC.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" title="Databricks"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original-wordmark.svg" height="40" title="Yarn"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" title="Azure" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" height="40" title="Spark" />
+</div>
 
 ----
+
+###
 
 ## Minhas Certificações:
 <p align="left">
@@ -33,14 +98,29 @@
   <img src="https://raw.githubusercontent.com/pblovns/data-stack/main/Data-Engineering-Professional-Level-Exam.png" width="200">
 </p>
 
+###
 
----
-Cursos e capacitações complementares que já fiz:
----
+<h2 align="center">Aqui estão as minhas estatísticas:</h2>
 
-| Nome do Curso                                        | Instituição                                     | Certificado                                                                |
-| -----------------------------------------------------|:-----------------------------------------------:|----------------------------------------------------------------------------|
-| SAS do Zero ao Pro                                   | Programador Avetureiro                          | https://www.udemy.com/certificate/UC-0ba6a13f-e911-48c4-82a3-71abf11ee3d7/ |
-| Microsoft Azure Essentials                           | Dio.me                                          | https://www.dio.me/certificate/HRFCOZJ1/share                              |
-| Hadoop                                               | Dio.me                                          |                                                                            |
-| Hive                                                 | Dio.me                                          |                                                                            |
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pblovns.pblovns&left_color=gray&right_color=blue"  />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pblovns&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pblovns&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=false&order=2" height="350" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/pblovns/pblovns/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="center">Abaixo você encontra alguns dos meus projetos:</h2>
+
+###
