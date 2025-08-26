@@ -117,10 +117,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pblovns/pblovns/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="center">Abaixo você encontra alguns dos meus projetos:</h2>
 
 ###
