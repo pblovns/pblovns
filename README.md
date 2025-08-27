@@ -38,11 +38,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" title="Bash"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" title="PowerShell"  />
 </div>
 
 ###
@@ -52,11 +52,11 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" title="Github"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="40" alt="bitbucket logo"  />
+  <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="40" title="Bitbucket"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/bamboo/0052CC" height="40" alt="bamboo logo"  />
   <img width="12" />
@@ -79,8 +79,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" height="40" title="Hive"  />
   <img width="12" />
   <img src="https://cdn.brandfetch.io/idSUrLOWbH/idEHbzBDZC.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" title="Databricks"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original-wordmark.svg" height="40" title="Yarn"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" title="Azure" />
   <img width="12" />
