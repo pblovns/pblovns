@@ -80,7 +80,7 @@
   <img width="12" />
   <img src="https://cdn.brandfetch.io/idSUrLOWbH/idEHbzBDZC.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" title="Databricks"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" height="55" title="Spark" />
+  <img src="https://raw.githubusercontent.com/pblovns/data-stack/main/logo_spark.png" height="55" title="Spark">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" title="Azure" />
 </div>
