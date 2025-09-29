@@ -47,7 +47,7 @@
 
 ###
 
-<h3 align="left">Colaboração e CI/CD 🫱🏼‍🫲🏾</h3>
+<h3 align="left">Colaboração e CI/CD 🔄️</h3>
 
 ###
 
